@@ -32,6 +32,6 @@ let faixas3 = [
     new FaixaPreco('f',1000,99999)
 ]
 
-console.log(faixas);
+console.log(faixas); 
 console.log(faixas2);
 console.log(faixas3);
